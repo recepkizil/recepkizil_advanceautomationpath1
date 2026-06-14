@@ -2,6 +2,8 @@
 
 Selenium + pytest ile yazılmış UI otomasyon projesi.
 
+> CI/CD pipeline demo PR.
+
 ## Kurulum
 
 ```bash
